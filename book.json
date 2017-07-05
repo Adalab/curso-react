@@ -1,0 +1,10 @@
+{
+  "gitbook": "3.2.2",
+  "structure": {
+    "readme": "intro.md"
+  },
+  "title": "Curso de React",
+  "description": "Curso básico y práctico para aprender a utilizar React",
+  "author": "Adalab",
+  "language": "es"
+}
