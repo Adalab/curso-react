@@ -15,6 +15,17 @@
 - Operador spread
 - Valores opcionales
 
+## Recursos extra
+
+- [Introducción a ES6](http://exploringjs.com/es6/ch_about-es6.html)
+- [Interpolación de cadenas](http://exploringjs.com/es6/ch_core-features.html#sec_from-str-concat-to-tmpl-lit)
+- [`let` y `const`](http://exploringjs.com/es6/ch_core-features.html#sec_from-var-to-const)
+- [Arrow functions](http://exploringjs.com/es6/ch_core-features.html#sec_from-func-expr-to-arrow-func)
+- [Map](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+- [`for..of`](http://exploringjs.com/es6/ch_core-features.html#sec_for-foreach-forof)
+- [Destructuring](http://exploringjs.com/es6/ch_destructuring.html#sec_overview-destructuring)
+- [Operador spread](http://exploringjs.com/es6/ch_core-features.html#sec_from-apply-to-spread)
+
 ## Ejercicios
 
 - [Crear un menú dinámico usando funcionalidades de ES6](ejercicios/1_1_menu.md)
