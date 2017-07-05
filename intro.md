@@ -8,18 +8,26 @@
    Aprende a utilizar la librería de React con este proyecto enfocado en la práctica
 </p>
 
-## Contenido
-
-- [Acerca del curso](#acerca-del-curso)
-- [Sobre AdaLab](#sobre-adalab)
-- [Objetivos generales](#objetivos-generales)
-- [Cómo colaborar](#cómo-colaborar)
-
 ## Acerca del curso
 
 Este curso tiene como fin hacer que los participantes se familiaricen con la librería de React. Es de carácter práctico y se basa en la realización de pequeños proyectos que ayuden a reforzar los conceptos aprendidos en cada sesión.
 
 El fin del curso es que todas las participantes sean capaces de realizar todas las tareas reflejadas en los [Objetivos generales](#objetivos-generales)
+
+
+## Sesiones del curso
+
+El curso está estructurado en siete sesiones magistrales y dos sesiones finales de evaluación. Las sesiones magistrales son las siguientes:
+
+- ES6: Introducción y características básicas
+- ES6: Módulos y clases
+- Intro a react
+- Herencia de componentes
+- Interactividad de componentes
+- ES6: Promesas
+- Tomando datos del servidor con React
+
+Las sesiones finales de evaluación serán llevadas a cabo mediante un ejercicio práctico en el que haremos, mediante pair programming, un proyecto simple en el que involucraremos los conocimientos adquiridos durante este curso.
 
 
 ## Sobre AdaLab
