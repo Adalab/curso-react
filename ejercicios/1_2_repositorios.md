@@ -1,4 +1,4 @@
-# Crear una página con un listado de los repositorios públicos de un usuario
+# Mostrar un listado de los repositorios públicos en GitHub
 
 Vamos a crear una página con un listado de los repositorios públicos de un usuario en GitHub. De cada repo debe aparecer al menos el nombre y el número de estrellas.
 
