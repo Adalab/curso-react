@@ -7,4 +7,4 @@ Los requisitos de este ejercicios son los siguientes:
 - Emplear el destructuring para guardar la información del JSON en las variables necesarias
 - Crear valores opcionales por si alguna información no existe
 
-[Código inicial en JS Bin](http://jsbin.com/miyezoy/17/edit?html,js,console,output)
+[Código inicial en JS Bin](http://jsbin.com/miyezoy/18/edit?html,js,console,output)
