@@ -8,3 +8,6 @@
   * [Ejercicio 1 - menú](ejercicios/1_1_menu.md)
   * [Ejercicio 2 - repositorio](ejercicios/1_2_repositorios.md)
 * [2. ES6: Clases](2_es6_clases.md)
+  * [Ejercicio 1 - Clases: Uso básico](ejercicios/2_1_uso_basico.md)
+  * [Ejercicio 2 - Clases: Herencia en las clases](ejercicios/2_2_herencia.md)
+  * [Ejercicio 3 - Clases: Getters y setters](ejercicios/2_3_getters_y_setters.md)
