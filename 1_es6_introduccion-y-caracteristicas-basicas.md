@@ -28,5 +28,5 @@
 
 ## Ejercicios
 
-- [Crear un menú dinámico usando funcionalidades de ES6](ejercicios/1_1_menu.md)
-- [Crear una página con un listado de los repositorios públicos de un usuario](ejercicios/1_2_repositorios.md)
+- [Crear un menú dinámico usando funcionalidades de ES6](ejercicios/1_1_menu.md) - ([Solución](http://jsbin.com/dasuqoxaya/edit?js,output))
+- [Crear una página con un listado de los repositorios públicos de un usuario](ejercicios/1_2_repositorios.md) - ([Solución](http://jsbin.com/rezojoleyo/2/edit?html,js))
