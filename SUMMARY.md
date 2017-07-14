@@ -11,3 +11,5 @@
   * [Ejercicio 1 - Clases: Uso básico](ejercicios/2_1_uso_basico.md)
   * [Ejercicio 2 - Clases: Herencia en las clases](ejercicios/2_2_herencia.md)
   * [Ejercicio 3 - Clases: Getters y setters](ejercicios/2_3_getters_y_setters.md)
+* [3. Introducción a React](3_react_intro.md)
+  * [Ejercicio: Crear una tarjeta usando React](ejercicios/3_1_tarjeta.md)
