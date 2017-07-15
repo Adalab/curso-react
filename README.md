@@ -5,7 +5,7 @@
 </p>
 <h3 align="center">Curso de React</h3>
 <p align="center">
-   Aprende a utilizar la librería de React con este proyecto enfocado en la práctica
+   Aprende a utilizar la librería de React con este curso enfocado en la práctica
 </p>
 
 Este repositorio recoge la documentación empleada en el Curso de React de Adalab. Toda esta documentación está realizada usando GitBook y el resultado puedes visualizarlo en su plataforma.
