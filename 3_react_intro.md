@@ -19,4 +19,4 @@
 
 ## Ejercicios
 
-- [Ejercicio: Crear una tarjeta usando React](ejercicios/3_1_tarjeta.md)
+- [Ejercicio: Crear una tarjeta usando React](ejercicios/3_1_componente_tarjeta.md)

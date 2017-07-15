@@ -7,11 +7,10 @@
 ## Conceptos vistos durante la sesión
 
 - Clases
-- Metodos y atributos
-- Herencia con extend
+- Métodos y atributos
+- Herencia con `extends`
 - Constructor
 - Getters y setters
-
 
 ## Recursos extra
 
@@ -19,6 +18,6 @@
 
 ## Ejercicios
 
-- [Clases: Uso básico](ejercicios/2_1_uso_basico.md)
-- [Clases: Herencia en las clases](ejercicios/2_2_herencia.md)
-- [Clases: Getters y setters](ejercicios/2_3_getters_y_setters.md)
+- [Clases: Uso básico](ejercicios/2_1_clases_uso_basico.md)
+- [Clases: Herencia en las clases](ejercicios/2_2_clases_herencia.md)
+- [Clases: Getters y setters](ejercicios/2_3_clases_getters_y_setters.md)
