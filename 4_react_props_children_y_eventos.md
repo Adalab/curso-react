@@ -20,4 +20,4 @@
 
 ## Ejercicios
 
-- [Ejercicio: Crear una tarjeta usando React](ejercicios/3_1_componente_tarjeta.md)
+- [Ejercicio: Lista de la compra](ejercicios/4_1_lista_compra.md)
