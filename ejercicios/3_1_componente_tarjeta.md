@@ -1,5 +1,9 @@
 # Tarjeta
 
+## Requisitos
+
+Para este ejercicio es necesario crear un proyecto con [React Create App](https://github.com/facebookincubator/create-react-app). Una vez montado el proyecto, se deberán eliminar los archivos innecesarios (registerServiceWorker.js, logo.svg, etc.)
+
 ## Descripción del ejercicio
 
 El objetivo de este ejercicio es crear un componente de React que genere una tarjeta con las siguientes partes:
