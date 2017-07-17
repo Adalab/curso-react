@@ -15,3 +15,4 @@
   * [Ejercicio: Crear una tarjeta usando React](ejercicios/3_1_componente_tarjeta.md)
 * [4. React: propiedades, children y eventos](4_react_props_children_y_eventos.md)
   * [Ejercicio: Lista de la compra](ejercicios/4_1_lista_compra.md)
+* [5. React: estado, lifting y React Dev Tools](5_react_state_lifting_y_dev_tools.md)
