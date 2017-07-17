@@ -3,6 +3,8 @@
 ## Contenido de la sesión
 
 - [Slides y ejercicios](http://slides.com/adalab/deck-2-2)
+- [Repositorio con el código del ejemplo](https://github.com/Adalab/ejemplo-react)
+
 
 ## Conceptos vistos durante la sesión
 
