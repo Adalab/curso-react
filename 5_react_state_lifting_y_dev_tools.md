@@ -12,3 +12,9 @@
 - Modificar nuestra vista a partir del estado
 - Delegar comportamientos a los hijos (lifting)
 - Depurar código con React Dev Tools
+
+## Recursos extra
+
+- [Documentación de React sobre el estado](https://facebook.github.io/react/docs/state-and-lifecycle.html)
+- [Gestionar los estados en los componentes (video)](http://egghead.io/lessons/react-state-basics)
+- [Objetos de orden superior (con lógica) o contenedores (objetos inteligentes y tontos)](egghead.io/lessons/react-react-fundamentals-higher-order-components-replaces-mixins)
