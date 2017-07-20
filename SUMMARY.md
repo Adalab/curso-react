@@ -16,3 +16,6 @@
 * [4. React: propiedades, children y eventos](4_react_props_children_y_eventos.md)
   * [Ejercicio: Lista de la compra](ejercicios/4_1_lista_compra.md)
 * [5. React: estado, lifting y React Dev Tools](5_react_state_lifting_y_dev_tools.md)
+* [6. Fetch y promesas](6_fetch_y_promesas.md)
+  * [Ejercicio: Lista con API de pokemons](ejercicios/6_1_lista_api_pokemons.md)
+  * [Ejercicio: Mostrar evoluciones Pokemon](ejercicios/6_2_mostrar_evoluciones_pokemon.md)
