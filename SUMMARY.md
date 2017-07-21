@@ -19,3 +19,4 @@
 * [6. Fetch y promesas](6_fetch_y_promesas.md)
   * [Ejercicio: Lista con API de pokemons](ejercicios/6_1_lista_api_pokemons.md)
   * [Ejercicio: Mostrar evoluciones Pokemon](ejercicios/6_2_mostrar_evoluciones_pokemon.md)
+* [7. Aplicaciones reales en React](7_apps_reales_en_react.md)

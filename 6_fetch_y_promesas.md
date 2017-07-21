@@ -20,3 +20,8 @@
 - [Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
 - [Artículo: We have a problem with Promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
 - [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+
+## Ejercicios
+
+- [Lista con API de pokemons](ejercicios/6_1_lista_api_pokemons.md)
+- [Mostrar evoluciones Pokemon](ejercicios/6_2_mostrar_evoluciones_pokemon.md)
